@@ -1,3 +1,1 @@
-Hey! This is mine! (Alyssa) 
-
-This is gibberish! kjdkflioweurklnkzsurio
+Hey! This is my first repository on GitHub…still learning how to use it.
